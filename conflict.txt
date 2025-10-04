@@ -1,1 +1,1 @@
-not conflict
+super conflict
